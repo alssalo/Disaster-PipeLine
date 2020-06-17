@@ -2,7 +2,7 @@ pandas
 numpy
 plotly
 nltk
-json
+jsonlib
 sqlalchemy
 flask
 sklearn
