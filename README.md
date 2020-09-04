@@ -1,4 +1,4 @@
-# Disaster-Management PipeLine  Project
+# Disaster-Management message classification (NLP) PipeLine  Project
 
 
 ### Introduction:
